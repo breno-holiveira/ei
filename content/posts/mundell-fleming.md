@@ -6,9 +6,10 @@ categories:
 date: "2024-10-15"
 description: 
 series:
-- Macroeconomia
+- macroeconomia
 tags:
-- Mundell-Fleming
+- mundell-fleming
+- modelos macroeconômicos
 title: O Modelo Mundell-Fleming 
 ---
 
