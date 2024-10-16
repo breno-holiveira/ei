@@ -2,13 +2,11 @@
 authors:
 - Breno Oliveira
 categories:
-- macroeconomia
+- Macroeconomia
 date: "2024-10-15"
 description: 
-series:
-- Macroeconomia
 tags:
 - modelos macroeconômicos
-- hicks-hansen
+- modelo hicks-hansen
 title: O Modelo Hicks-Hansen
 ---
