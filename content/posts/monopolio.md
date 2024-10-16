@@ -8,5 +8,5 @@ description:
 tags:
 - monopólio
 - estruturas de mercado
-title: Estruturas de mercado - monopólio
+title: Monopólio
 ---
