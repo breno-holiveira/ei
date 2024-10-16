@@ -6,7 +6,6 @@ categories:
 date: "2024-10-16"
 description: 
 tags:
-- dados discretos
-- dados contínuos
+- dados brutos
 title: Tabulação de dados discretos e contínuos
 ---
