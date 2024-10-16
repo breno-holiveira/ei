@@ -45,14 +45,14 @@ languages:
       main:
         - name: Sobre
           url: about/
-          weight: 4
-        - name: Postagens
+          weight: 5
+        - name: Artigos
           url: posts/
           weight: 1
-        - name: Categorias
+        - name: Séries
           url: series/
           weight: 2
-        - name: Tags
+        - name: Etiquetas
           url: Tags/
           weight: 3     
         - name: Contato
