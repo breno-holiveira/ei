@@ -8,5 +8,5 @@ description:
 tags:
 - modelos macroeconômicos
 - modelo hicks-hansen
-title: O Modelo Hicks-Hansen
+title: O modelo Hicks-Hansen
 ---
