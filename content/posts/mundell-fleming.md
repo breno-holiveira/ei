@@ -2,14 +2,12 @@
 authors:
 - Breno Oliveira
 categories:
-- Economia
+- Macroeconomia
 date: "2024-10-15"
 description: 
-series:
-- macroeconomia
 tags:
-- mundell-fleming
 - modelos macroeconômicos
+- modelo mundell-fleming
 title: O Modelo Mundell-Fleming 
 ---
 
