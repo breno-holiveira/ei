@@ -8,6 +8,6 @@ description:
 tags:
 - modelos macroeconômicos
 - modelo mundell-fleming
-title: O Modelo Mundell-Fleming 
+title: O modelo Mundell-Fleming 
 ---
 
