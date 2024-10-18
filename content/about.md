@@ -11,4 +11,4 @@ Sugestões, críticas, correções ou comentários são sempre bem-vindos. Você
 
 # Sobre o autor
 
-Breno Oliveira é graduando em Economia pela PUC/Campinas e estagiário na Sociedade de Abastecimento de Água e Saneamento (SANASA). Atualmente, realiza Iniciação Científica na área de Inovação em Sistemas de Serviços da Região Metropolitana de Campinas, no [Observatório Acadêmico](https://observatorio.puc-campinas.edu.br/) da PUC. Nas horas vagas, gosta de desenvolver projetos e ouvir músicas rancheras mexicanas.
+[Breno Oliveira](https://github.com/breno-holiveira/ei) é graduando em Economia pela PUC/Campinas e estagiário na Sociedade de Abastecimento de Água e Saneamento (SANASA). Atualmente, realiza Iniciação Científica na área de Inovação em Sistemas de Serviços da Região Metropolitana de Campinas, no [Observatório](https://observatorio.puc-campinas.edu.br/) da PUC. Nas horas vagas, gosta de desenvolver projetos e ouvir músicas rancheras mexicanas.
