@@ -9,4 +9,6 @@ tags:
 - modelos macroeconômicos
 title: O modelo Hicks-Hansen
 ---
-O modelo macroeconômico Hicks-Hansen, também conhecido como modelo keynesiano generalizado, ou ainda modelo IS-LM, é um modelo que busca explicar os impactos de políticas macroeconômicas sobre o produto e a taxa de juros.
+O modelo Hicks-Hansen[^1], também conhecido como modelo keynesiano generalizado, ou ainda modelo IS-LM, é um modelo macroeconômico que busca explicar o impacto das políticas macroeconômicas[^2] sobre o produto e a taxa de juros.
+[^1]: o modelo também é conhecido como keynesiano simplificado.
+[^2]: políticas macroeconômicas, para o modelo, são políticas fiscais e monetárias.
