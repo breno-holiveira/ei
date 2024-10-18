@@ -21,7 +21,7 @@ params:
   customSCSS: []
   dateFormat: 2 de January de 2006
   description: Blog pessoal
-  hideColorSchemeToggle: no
+  hideColorSchemeToggle: yes
   info:
     - Repositório Acadêmico
   keywords: blog,developer,personal
@@ -31,7 +31,7 @@ params:
   social:
     - icon: fa-brands fa-github fa-2x
       name: Github
-      url: https://github.com/breno-econ
+      url: https://github.com/breno-holiveira
       weight: 1
 taxonomies:
   author: authors
@@ -61,6 +61,6 @@ languages:
     params:
       author: Economia Integral
       description: 
-      info: Por [Breno Oliveira](https://github.com/breno-econ)
+      info: Por [Breno Oliveira](https://github.com/breno-holiveira)
       keywords: 
     title: Economia Integral
