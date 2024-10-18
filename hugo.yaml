@@ -13,7 +13,7 @@ markup:
 params:
   author: Introspecto Econômico
   avatarURL: 
-  colorScheme: auto
+  colorScheme: #ffffff
   commit: https://github.com/luizdepra/hugo-coder/tree/
   customCSS: []
   customJS: []
