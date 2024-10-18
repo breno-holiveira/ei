@@ -12,7 +12,7 @@ markup:
     noClasses: no
 params:
   author: Introspecto Econômico
-  avatarURL: images/avatar.png
+  avatarURL: images/epsilon.png
   colorScheme: #ffffff
   commit: https://github.com/luizdepra/hugo-coder/tree/
   customCSS: []
