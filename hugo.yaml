@@ -59,8 +59,8 @@ languages:
           url: contact/
           weight: 4
     params:
-      author: Economia Integral
+      author: Breno Oliveira
       description: 
-      info: Por [Breno Oliveira](https://github.com/breno-holiveira)
+      info: Economia, Estatística e Afins
       keywords: 
-    title: Economia Integral
+    title: Breno Oliveira
